@@ -40,15 +40,12 @@ School of Information
 	* Scaled Page Rank
 	* Hubs and Authorities
 	* Centrality Examples
-* **Week-04 :Final**
+* **Week-04 : Network Evolution**
 	* Preferential Attachment Model
 	* Small World Networks
 	* Link Prediction
-
-https://www.coursera.org/learn/python-social-network-analysis
-certificate : https://coursera.org/share/9591199133f5fc64b32d92cc0d432504
-
+	
 ## References 
-> [Coursera](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
+> [Coursera](https://www.coursera.org/learn/python-social-network-analysis)
 
-> [Certificate](https://www.coursera.org/account/accomplishments/records/YPSLBDSDQDFZ)
+> [Certificate](https://coursera.org/share/9591199133f5fc64b32d92cc0d432504)
