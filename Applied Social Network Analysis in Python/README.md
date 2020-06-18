@@ -1,42 +1,52 @@
 # Applied Data Science with Python
 
-# Applied Text Mining in Python
+# Applied Social Network Analysis in Python
 
 ## About this Course
-This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. The second week focuses on common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes. The third week will apply basic natural language processing methods to text, and demonstrate how text classification is accomplished. The final week will explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling). 
+This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks. The second week introduces the concept of connectivity and network robustness. The third week will explore ways of measuring the importance or centrality of a node in a network. The final week will explore the evolution of networks over time and cover models of network generation and the link prediction problem. 
 
-Taught by:  V. G. Vinod Vydiswaran, Assistant Professor
+Taught by: Daniel Romero, Assistant Professor
 School of Information
 
 ## WHAT YOU WILL LEARN
-* Understand how text is handled in Python
-* Apply basic natural language processing methods
-* Write code that groups documents by topic
-* Describe the nltk framework for manipulating text
+* Represent and manipulate networked data using the NetworkX library
+* Analyze the connectivity of a network
+* Measure the importance or centrality of a node in a network
+* Predict the evolution of networks over time
 
 ## SKILLS YOU WILL GAIN
-* Natural Language Toolkit (NLTK)
-* Text Mining
+* Graph Theory
+* Network Analysis
 * Python Programming
-* Natural Language Processing
+* Social Network Analysis
 
 ## Course Structure
-1. **Week-1- Module 1: Working with Text in Python**
-    * Introduction to Text Mining
-	* Regular Expression
-2. **Week-2- Module 2: Basic Natural Language Processing**
-    * Basic NLP with NLTK
-	* Advanced NLP with NLTK
-3. **Week-3- Module 3: Classification of Text**
-    * Identifying the feature
-	* Naive Bayes classifer & Variations
-	* Support Vector Machines
-    * Case Study- Sentiment Analysis
-4. **Week-4- Module 4: Topic Modeling** 
-    * Semantic Text Similarity
-	* Generative Models And LDA
-	* Information Extraction
+* **Week-01 : Why Study Networks and Basics on NetworkX**
+	* Networks:Defination
+	* Node and Edge Attributes
+	* Bipartite Graphs
+	* Loading Graph in NetworkX
 
+* **Week-02 : Network Connectivity**
+	* Clustering Coefficient
+	* Distance Measures
+	* Connected Components
+	* Network Robustness
+
+* **Week-03 : Influence Measures and Networks Centralization**
+	* Degree and Closeness Centrality
+	* Betweenness Centrality
+	* Basic Page Rank
+	* Scaled Page Rank
+	* Hubs and Authorities
+	* Centrality Examples
+* **Week-04 :Final**
+	* Preferential Attachment Model
+	* Small World Networks
+	* Link Prediction
+
+https://www.coursera.org/learn/python-social-network-analysis
+certificate : https://coursera.org/share/9591199133f5fc64b32d92cc0d432504
 
 ## References 
 > [Coursera](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
